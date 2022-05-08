@@ -59,3 +59,7 @@ chmod +x agscript
 https://github.com/kingz40o/Aggressor_dingding
 
 https://github.com/lintstar/CS-PushPlus
+
+## ⚠️ 免责声明
+
+此工具仅作为网络安全攻防研究交流，请使用者遵照网络安全法合理使用！ 如果使用者使用该工具出现非法攻击等违法行为，与本作者无关！
